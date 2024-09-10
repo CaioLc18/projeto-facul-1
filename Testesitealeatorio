@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="src/style.css">
+  </head>
+  <body>
+  	<!--Cabeçalho da página-->
+    	<header>
+      		<h2>Primeira página de um site aleatório</h2>
+    	</header>
+
+    <!--Navegação-->
+    	<nav>
+        	<ul>
+            	<p id="inicio"><li><button href="#Início">Início</button>
+                <button href="#Sobre nós">Sobre nós</button>							<button href="#Sobre nós">Contato</button></p>
+            </ul>
+                
+ 
+        
+        <footer>
+        <p>&copy; 2024 ElementaRPG. Todos os direitos reservados<p>
+        </footer>
+  </body>
