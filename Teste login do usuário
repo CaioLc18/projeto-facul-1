@@ -1,0 +1,12 @@
+<style>
+                                #cabecalho{
+                                    color: grey;
+                                    text-align: right;
+                                    background: white;
+                                    font-size: 70px;
+                                    padding-bottom: 30px;
+                                    padding-top: 30px;
+                                    font-family: serif; 
+                                    }
+                            </style>            
+                                <div id="cabecalho" href="sobre.html"><button> Sobre </button></div>
